@@ -4,6 +4,7 @@
 
 Например: 
 .\python_embeded\python.exe -s Fooocus\entry_with_update.py  --language ru 
+
 pause
 
 Это первая версия русификатора, в дальнейшем он будет редактироваться и адаптироваться.
